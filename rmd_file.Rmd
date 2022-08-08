@@ -12,3 +12,9 @@ knitr::opts_chunk$set(echo = TRUE)
 ## R Markdown
 
 This is now new content.
+
+# Section Title
+
+## Subsection Title
+
+TODO: Add figure
