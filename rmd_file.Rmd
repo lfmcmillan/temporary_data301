@@ -17,10 +17,9 @@ This is now new content.
 
 # First Section
 
-sadfdsljfdskljlk
-
-sdfsdkljsdfds 
-
 ```{r}
 y <- 5
+calc_square <- function(x) {
+    x^2
+}
 ```
